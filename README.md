@@ -1,2 +1,2 @@
 # NLW #3
-'Projeto do curso da rocketseat'
+Projeto do curso da rocketseat
