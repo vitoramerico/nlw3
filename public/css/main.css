@@ -1,0 +1,30 @@
+/* fontsize 
+    em: busca no elemento pai
+    rem: busca no elemento root
+*/
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  font-size: 62.5%;
+}
+
+body {
+  height: 100vh;
+  color: white;
+}
+
+body,
+input,
+button,
+textarea {
+  font: 400 1.8rem/1 "Nunito", sans-serif;
+  /* ou
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 1;
+    font-family: 'Nunito', sans-serif; */
+}
